@@ -1,0 +1,6 @@
+.DS_Store
+*.qgz~
+README.ru.md
+data/asturias_osm_free_2026-09-15.gpkg
+data/asturias_osm_2026-09-15.osm.pbf
+data/firms_viirs_spain_2012-2026/
